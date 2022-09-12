@@ -1,0 +1,7 @@
+{
+  "name": "@bhhaskin/f5-core",
+  "version": "0.0.1",
+  "description": "F5 core. An ultra light sass framework",
+  "author": "Bryan Haskin <bhhaskin@bitsofsimplicity.com>",
+  "license": "MIT"
+}

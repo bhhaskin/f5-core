@@ -1,0 +1,20 @@
+$typography: (
+  base-font-size: 10px,
+  header-font: (sans-serif),
+  copy-font: (sans-serif),
+  base-letter-spacing: normal,
+  copy-font-size: 1.6rem,
+);
+
+$breakpoints: (
+  md: 575px,
+  lg: 1025px,
+);
+
+$grid: (
+  max-width: 1920px,
+  normal-width: 1140px,
+  gutter: 36px,
+  gutter-md: 30px,
+  gutter-lg: 30px,
+);
