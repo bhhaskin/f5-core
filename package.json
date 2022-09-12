@@ -1,6 +1,6 @@
 {
   "name": "@bhhaskin/f5-core",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "F5 core. An ultra light sass framework",
   "main": "./sass/f5-core.scss",
   "repository": "git@github.com:bhhaskin/f5-core.git",
